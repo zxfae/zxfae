@@ -17,10 +17,9 @@ I love to program.
 
 ## Favorite OS: (Debian Team) :floppy_disk:
 
-| Debian | Kali |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/> |
-
+| Debian |
+|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Linux" alt="Linux" width="55" height="55"/>
 
 ## Last piscine: :ocean:
 
