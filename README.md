@@ -15,7 +15,14 @@ I love to program.
 |----------|----------|----------|-----|-----|-----|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="55" height="55"/> | <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" title="Rust"  alt="Rust" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="55" height="55"/> |<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS" alt="CSS" width="55" height="55"/>
 
+## Last piscine: :ocean:
+
+| Golang | Javascript |
+|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
+
 ## IDE
+
 | VSCODE | NANO
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-original-wordmark.svg" title="Nano"  alt="Nano" width="55" height="55"/> |
@@ -25,12 +32,6 @@ I love to program.
 | Debian |
 |----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="55" height="55"/>
-
-## Last piscine: :ocean:
-
-| Golang | Javascript |
-|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Golang" alt="Golang" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> 
 
 ## Stats
 <p align="center">
