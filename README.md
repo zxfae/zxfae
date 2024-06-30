@@ -35,7 +35,8 @@ I love to program.
 
 ## Stats
 <p align="center">
-  <img width="600" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=merko&show_icons=true&hide_border=false">
+    <!--START_SECTION:top-langs-->
+  <!--END_SECTION:top-langs-->
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zxfae&theme=merko&show_icons=true&hide_border=false">
   <img width="600" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=zxfae&theme=merko&hide_border=false">
 </p>
