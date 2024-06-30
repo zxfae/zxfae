@@ -20,7 +20,8 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          echo "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=merko&show_icons=true&count_private=true&hide_border=false&token=${GH_TOKEN})" > README.md
+          echo "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=merko&show_icons=true&count_private=true&hide_border=false&token=${GH_TOKEN})" > stats.svg
+          sed -i '/<!--START_SECTION:top-langs-->/r stats.svg' README.md
 
       - name: Commit changes
         run: |
