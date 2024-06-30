@@ -22,6 +22,8 @@ jobs:
         run: |
           echo "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=merko&show_icons=true&count_private=true&hide_border=false&token=${GH_TOKEN})" > stats.svg
           sed -i '/<!--START_SECTION:top-langs-->/r stats.svg' README.md
+          sed -i '/<!--START_SECTION:top-langs-->/, /<!--END_SECTION:top-langs-->/d' README.md
+          sed -i '/<!--START_SECTION:top-langs-->/r stats.svg' README.md
 
       - name: Commit changes
         run: |
