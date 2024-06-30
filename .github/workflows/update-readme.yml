@@ -1,0 +1,31 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Met à jour quotidiennement
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate GitHub Stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          echo "![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=merko&show_icons=true&count_private=true&hide_border=false&token=${GH_TOKEN})" > README.md
+
+      - name: Commit changes
+        run: |
+          git config --global user.email "lecro.philippe@icloud.com"
+          git config --global user.name "zxfae"
+          git add README.md
+          git commit -m "Update README with latest GitHub stats"
+          git push
