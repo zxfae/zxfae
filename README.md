@@ -5,9 +5,9 @@ I love to program.
 
 ### Current Work 🚀
 
-- 👌 FinanceApp : Create your business plan for free ; backend rust, frontend[css, handlebars.js, js] HERE => (https://github.com/zxfae/FinanceApp)
-- :ok_hand: ServerGolang : Real-time-Forum; backend golang[server, database, more] frontend javascript[SPA] HERE => (https://github.com/zxfae/ServerGolang)
-- :ok_hand: RecoTool : Recognition tool, search by IP, FULLNAME, USERNAME; Rust[backend] HERE => (https://github.com/zxfae/RecoTool)
+- 👌 FinanceApp : Create your business plan for free ; backend RUST[actix], database sqlite3 GOLANG, frontend YEW; HERE => (https://github.com/zxfae/PlanFinance)
+- :ok_hand: ServerGolang : Real-time-Forum; backend golang[server, database, more] frontend javascript[SPA]; HERE => (https://github.com/zxfae/ServerGolang)
+- :ok_hand: RecoTool : Recognition tool, search by IP, FULLNAME, USERNAME; Rust[backend]; HERE => (https://github.com/zxfae/RecoTool)
 
 
 ### Work Terminated ✅
