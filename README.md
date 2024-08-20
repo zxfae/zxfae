@@ -30,11 +30,11 @@ I love to program.
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/nano/nano-original-wordmark.svg" title="Nano"  alt="Nano" width="55" height="55"/> |
 
-## Favorite OS: (Debian Team) :floppy_disk:
+## OS: :floppy_disk:
 
-| Debian |
+| Fedora |
 |----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="Debian" alt="Debian" width="55" height="55"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/fedora/fedora-original.svg" title="Fedora" alt="Fedora" width="55" height="55"/>
 
 ## Stats
 <p align="center">
