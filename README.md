@@ -4,7 +4,7 @@ Hi... I'm ZxFae33
 I love to program.
 
 ### Current Work 🚀
-- 👌 WebAppFinance : Create your business plan for free ; GOLANG, NEXT.JS HERE => (https://github.com/zxfae/WebAppFinance)
+- 👌 WebAppBusiness : Create your business plan for free ; GOLANG, NEXT.JS HERE => (https://github.com/zxfae/WebAppBusiness)
 
 
 ### Work Terminated ✅
