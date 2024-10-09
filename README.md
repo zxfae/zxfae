@@ -5,7 +5,7 @@ I love to program.
 
 ### Current Work 🚀
 - 👌 WebAppBusiness : Create your business plan for free ; GOLANG, NEXT.JS HERE => (https://github.com/zxfae/WebAppBusiness)
-- 👌 PythonAI : Piscine Artificial Intelligence : Python HERE => (https://github.com/zxfae/PythonAI)
+- 👌 PythonAI : Piscine Artificial Intelligence : Python HERE => (https://github.com/zxfae/Python-Artificial-Intelligence)
 
 
 ### Work Terminated ✅
