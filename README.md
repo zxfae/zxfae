@@ -3,10 +3,13 @@
 Hi... I'm ZxFae33
 I love to program.
 
+
 ### Current Work 🚀
 - 👌 WebAppBusiness : Create your business plan for free ; GOLANG, NEXT.JS HERE => (https://github.com/zxfae/WebAppBusiness)
-- 👌 PythonAI : Piscine Artificial Intelligence : Python HERE => (https://github.com/zxfae/Python-Artificial-Intelligence)
 
+
+### Piscine Artificial Intelligence ✅
+- 👌 PythonAI : Piscine Artificial Intelligence : Python HERE => (https://github.com/zxfae/Python-Artificial-Intelligence)
 
 ### Work Terminated ✅
 - 👌 TimeComplexity : Calcul time complexity of your algorithms; golang[algo, go-echarts] HERE => (https://github.com/zxfae/TimeComplexity)
