@@ -6,7 +6,7 @@ I love to program.
 
 
 ### Current Work 🚀
-- 👌 Cratouille : A lightweight, terminal-based task manager built with Rust, featuring an intuitive TUI (Text User Interface) for efficient task management; RUST && RATATUI => (https://github.com/zxfae/cratouille)
+- Cratouille is a terminal-based task manager, featuring an intuitive TUI (Text User Interface) for efficient task management; RUST && RATATUI => (https://github.com/zxfae/cratouille)
 
 ## Languages :computer:
 
