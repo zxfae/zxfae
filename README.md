@@ -6,15 +6,7 @@ I love to program.
 
 
 ### Current Work 🚀
-- 👌 WebAppBusiness : Create your business plan for free ; GOLANG, NEXT.JS HERE => (https://github.com/zxfae/WebAppBusiness)
-
-
-### Piscine Artificial Intelligence ✅
-- 👌 PythonAI : Piscine Artificial Intelligence : Python HERE => (https://github.com/zxfae/Python-Artificial-Intelligence)
-
-### Work Terminated ✅
-- 👌 TimeComplexity : Calcul time complexity of your algorithms; golang[algo, go-echarts] HERE => (https://github.com/zxfae/TimeComplexity)
-- :ok_hand: ServerGolang : Real-time-Forum; backend golang[server, database, more] frontend javascript[SPA]; HERE => (https://github.com/zxfae/ServerGolang)
+- 👌 Cratouille : A lightweight, terminal-based task manager built with Rust, featuring an intuitive TUI (Text User Interface) for efficient task management; RUST && RATATUI => (https://github.com/zxfae/cratouille)
 
 ## Languages :computer:
 
