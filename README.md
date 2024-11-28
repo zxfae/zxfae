@@ -19,8 +19,3 @@ I love to program.
 | Arch |
 |--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="55" height="55"/>
-
-## Stats
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=zxfae&theme=merko&show_icons=true&hide_border=false">
-</p>
