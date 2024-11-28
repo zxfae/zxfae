@@ -24,8 +24,8 @@ I love to program.
 
 ## OS: :floppy_disk:
 
-| ArchLinux |
-|----------|
+| Arch |
+|--------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="ArchLinux" alt="ArchLinux" width="55" height="55"/>
 
 ## Stats
