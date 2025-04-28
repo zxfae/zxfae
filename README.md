@@ -3,6 +3,7 @@
 Hi... I'm ZxFae33
 I love to program.
 
+![zxfae's Stats](https://github-readme-stats.vercel.app/api?username=zxfae&theme=dracula&show_icons=true&hide_border=false&count_private=true)![zxfae's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=dracula&show_icons=true&hide_border=false&layout=compact)![zxfae's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zxfae&theme=dracula&hide_border=false)
 
 ##### Current Work 🚀
 - Cratouille is a terminal-based task manager, featuring an intuitive TUI (Text User Interface) for efficient task management; RUST && RATATUI => (https://github.com/zxfae/cratouille)
