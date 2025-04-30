@@ -102,7 +102,7 @@
 #### <p align="center">Languages :computer:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=dracula&show_icons=true&hide_border=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxfae&theme=catppuccin_latte&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 <p align="center">
