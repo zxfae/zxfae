@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=zxfae&color=006bed" alt="Profile views" />
 </p>
 
-# <p align="center">🚧 Projects In Progress</p>
+# <p align="center">🚧 In Progress</p>
 
 ---
 
@@ -70,7 +70,7 @@
 ---
 
 
-# <p align="center">✅ Project Public ✅</p>
+# <p align="center">✅ Open Source ✅</p>
 
 ---
 
