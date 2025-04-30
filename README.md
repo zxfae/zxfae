@@ -7,9 +7,40 @@
   <img src="https://komarev.com/ghpvc/?username=zxfae&color=006bed" alt="Profile views" />
 </p>
 
-# <p align="center">🚧 In Progress</p>
+# <p align="center">✅ Open Source ✅</p>
 
+## <p align="center">📝 Git Commit Counter</p>
+
+<p align="center">
+  <b>Git Commit Counter</b> is a Rust CLI tool to format, count, and manage Git commits by type (e.g., FEAT, FIX, DOCS).<br>
+  It formats commits as <code>[branch] [TYPE count : message]</code>, tracks counts per type, and supports aliases (e.g., FE → FEAT).<br>
+  Install by cloning <a href="https://github.com/zxfae/git_commit_counter">the repo</a> and running <code>cargo install</code>. Requires an initial commit.<br>
+  Counts are stored in platform-specific paths (e.g., <code>~/.config/git_commit_counter/</code>). Supports flags like <code>--show</code>, <code>--sync</code>, and <code>--reset</code>.<br>
+  <br>
+  <i>Open-source on GitHub. MIT License.</i>
+</p>
+
+<p align="center">
+  <b>Example Commands:</b><br>
+  <code>gm "FE : Add feature"</code> → Commits with <code>[main] [FEAT 1 : Add feature]</code><br>
+  <code>gm --show</code> → Displays commit counts by type<br>
+  <code>gm --sync</code> → Syncs counts with Git history<br>
+  <code>gm --reset</code> → Resets counts for the current branch
+</p>
 ---
+
+### <p align="center">✨ Key Features</p>
+
+<p align="center">
+  <b>Git Commit Counter</b><br>
+  • Formatted commits: <code>[branch] [TYPE count : message]</code><br/>
+  • Commit counting: Tracks FEAT, FIX, DOCS, etc., with aliases<br/>
+  • Sync & reset: Synchronizes with Git history, resets counts per branch<br/>
+  • Platform-agnostic storage: Uses XDG-compliant config paths
+</p>
+
+# <p align="center">🚧 In Progress 🚧</p>
+
 
 ## <p align="center">🌐 PolyChain3 <small>(private for now)</small></p>
 
@@ -65,43 +96,6 @@
   • VRF: Secure, unpredictable proposer selection<br/>
   • Extensible design: Traits for cryptography and consensus flexibility<br/>
   <br>
-</p>
-
----
-
-
-# <p align="center">✅ Open Source ✅</p>
-
----
-
-## <p align="center">📝 Git Commit Counter</p>
-
-<p align="center">
-  <b>Git Commit Counter</b> is a Rust CLI tool to format, count, and manage Git commits by type (e.g., FEAT, FIX, DOCS).<br>
-  It formats commits as <code>[branch] [TYPE count : message]</code>, tracks counts per type, and supports aliases (e.g., FE → FEAT).<br>
-  Install by cloning <a href="https://github.com/zxfae/git_commit_counter">the repo</a> and running <code>cargo install</code>. Requires an initial commit.<br>
-  Counts are stored in platform-specific paths (e.g., <code>~/.config/git_commit_counter/</code>). Supports flags like <code>--show</code>, <code>--sync</code>, and <code>--reset</code>.<br>
-  <br>
-  <i>Open-source on GitHub. MIT License.</i>
-</p>
-
-<p align="center">
-  <b>Example Commands:</b><br>
-  <code>gm "FE : Add feature"</code> → Commits with <code>[main] [FEAT 1 : Add feature]</code><br>
-  <code>gm --show</code> → Displays commit counts by type<br>
-  <code>gm --sync</code> → Syncs counts with Git history<br>
-  <code>gm --reset</code> → Resets counts for the current branch
-</p>
----
-
-### <p align="center">✨ Key Features</p>
-
-<p align="center">
-  <b>Git Commit Counter</b><br>
-  • Formatted commits: <code>[branch] [TYPE count : message]</code><br/>
-  • Commit counting: Tracks FEAT, FIX, DOCS, etc., with aliases<br/>
-  • Sync & reset: Synchronizes with Git history, resets counts per branch<br/>
-  • Platform-agnostic storage: Uses XDG-compliant config paths
 </p>
 
 ---
