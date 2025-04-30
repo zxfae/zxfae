@@ -113,7 +113,7 @@
 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxfae&bg_color=fffff0&color=708090&line=008000&point=408000&area=true&area_color=77DD77&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=zxfae&bg_color=fffff0&color=000000&line=008000&point=408000&area=true&area_color=77DD77&hide_border=true"/>
   </a>
 </p>
 
