@@ -111,6 +111,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zxfae&color=006bed" alt="Profile views"/>
-</p>
+
+
