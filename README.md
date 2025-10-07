@@ -7,7 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=zxfae&color=006bed" alt="Profile views" />
 </p>
 
-# <p align="center">✅ Open Source ✅</p>
 
 ---
 #### <p align="center">Languages :computer:</p>
