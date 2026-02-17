@@ -3,7 +3,7 @@
   <strong>32 | Self-Taught | Paris, France</strong><br><br>
   Obsessed with <strong>modeling strategic interactions</strong> and <strong>building high-performance systems</strong> for them from financial markets and <strong>post-quantum cryptography to real-world negotiations</strong><br>
   <strong>Learning algorithms, probability, game theory, and market microstructure in public</strong><br><br>
-  <strong>1st Place</strong> (Month 1) & <strong>4th Place</strong> (Month 2) - <a href="https://wchl25.worldcomputer.com/">ICP World Computer Hackathon League</a><br>
+  <strong>1st Place</strong> (Month 1) & <strong>4th Place</strong> (Month 2) & <strong>Qualified European Tour</strong> (Month 3) - <a href="https://wchl25.worldcomputer.com/">ICP World Computer Hackathon League</a><br>
   <em>Qubex Protocol: Post-Quantum-Safe Cryptography for Blockchain</em><br><br>
   Rust | Go | Systems Programming<br>
   <strong>Aiming for Quantitative Developer roles</strong><br><br>
