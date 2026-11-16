@@ -1,6 +1,6 @@
 # PhL
 
-Self-taught developer, Paris. I build protocols and study the incentives that make them hold.
+Software engineer, Paris · Zone01 Rouen Normandie (2026) · Co-founder @ Paktol. I build protocols and study the incentives that make them hold.
 
 **Focus:** game theory and mechanism design · post-quantum cryptography · blockchain protocols · Rust
 
