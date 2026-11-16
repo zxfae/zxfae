@@ -1,6 +1,6 @@
 # PhL
 
-Software engineer, Rouen / Paris · Zone01 Rouen Normandie (2026) · Co-founder @ Paktol. I build protocols and study the incentives that make them hold.
+Software engineer, Rouen / Paris · Zone01 Rouen Normandie (2026) · Co-founder & CTO @ Paktol. I build protocols and study the incentives that make them hold.
 
 **Focus:** game theory and mechanism design · post-quantum cryptography · blockchain protocols · Rust
 
